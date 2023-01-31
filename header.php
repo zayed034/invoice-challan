@@ -161,7 +161,7 @@ include("config.php");
                 <li class="active">
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-palette"></i> <span>Challan</span>
+                        <i class="fa-solid fa-bars"></i> <span>Challan</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -171,7 +171,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-layout"></i> <span>Products</span>
+                        <i class="fa-brands fa-product-hunt"></i> <span>Products</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
