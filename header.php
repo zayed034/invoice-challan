@@ -181,7 +181,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-layout"></i> <span>Units</span>
+                        <i class="fa-solid fa-helmet-un"></i> <span>Units</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -191,7 +191,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-layout"></i> <span>Colors</span>
+                        <i class="fa-solid fa-fill-drip"></i> <span>Colors</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -201,7 +201,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-layout"></i> <span>Sizes</span>
+                       <i class="fa-solid fa-wave-sine"></i> <span>Sizes</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -211,7 +211,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                    <i class="fa fa-user-o" aria-hidden="true"></i> <span>Users</span>
+                    <i class="fa-solid fa-user"></i> <span>Users</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -222,7 +222,7 @@ include("config.php");
                 
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-cloud-down"></i> <span>Vendor</span>
+                       <i class="fa-solid fa-shop"></i> <span>Vendor</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -232,7 +232,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="icon-cloud-down"></i> <span>Clients</span>
+                        <i class="fa-solid fa-users"></i> <span>Clients</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
