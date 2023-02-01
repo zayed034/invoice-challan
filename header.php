@@ -201,7 +201,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                       <i class="fa-solid fa-wave-sine"></i> <span>Sizes</span>
+                      <i class="fa-solid fa-pen-nib"></i><span>Sizes</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -247,8 +247,8 @@ include("config.php");
                     <i class="icon-bell"></i>
                 </div>
                 <div class="sidebar-widget-bottom p-20 m-20">
-                    <p><span class="need-help-icon"><i class="fa fa-phone" aria-hidden="true"></i></span>+88017 1402 8710
-                        <br> <span class="need-help-iconmail"><i class="fa fa-envelope-o" aria-hidden="true"></i></span> info@xubisoft.com
+                    <p><span class="need-help-icon"><i class="fa-solid fa-phone"></i></span>+88017 1402 8710
+                        <br> <span class="need-help-iconmail"><i class="fa-solid fa-envelope"></i></span> info@xubisoft.com
                         <br><a href="https://xubisoft.com/" class="xubisoft"><img src="assets/images/xubisoft-logo.jpg" alt=""></a>
                     </p>
                 </div>
