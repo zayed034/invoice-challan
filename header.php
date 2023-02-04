@@ -243,7 +243,7 @@ include("config.php");
             </ul>
             <div class="sidebar-widget text-center">
                 <div class="sidebar-widget-top">
-                    <h6 class="mb-2 fs-14">Need Help</h6>
+                    <h6 class="mb-2 fs-14">Get In Touch</h6>
                     <i class="icon-bell"></i>
                 </div>
                 <div class="sidebar-widget-bottom p-20 m-20">
