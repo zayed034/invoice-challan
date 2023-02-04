@@ -161,7 +161,7 @@ include("config.php");
                 <li class="active">
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="fa-solid fa-bars"></i> <span>Challan</span>
+                        <i class="fa-solid fa-bars nv-i"></i> <span>Challan</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -171,7 +171,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="fa-brands fa-product-hunt"></i> <span>Products</span>
+                        <i class="fa-brands fa-product-hunt nv-i"></i> <span>Products</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -181,7 +181,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="fa-solid fa-helmet-un"></i> <span>Units</span>
+                        <i class="fa-solid fa-helmet-un nv-i"></i> <span>Units</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -191,7 +191,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="fa-solid fa-fill-drip"></i> <span>Colors</span>
+                        <i class="fa-solid fa-fill-drip nv-i"></i> <span>Colors</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -201,7 +201,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                      <i class="fa-solid fa-pen-nib"></i><span>Sizes</span>
+                      <i class="fa-solid fa-pen-nib nv-i"></i><span>Sizes</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -211,7 +211,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                    <i class="fa-solid fa-user"></i> <span>Users</span>
+                    <i class="fa-solid fa-user nv-i"></i> <span>Users</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -222,7 +222,7 @@ include("config.php");
                 
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                       <i class="fa-solid fa-shop"></i> <span>Vendor</span>
+                       <i class="fa-solid fa-shop nv-i"></i> <span>Vendor</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
@@ -232,7 +232,7 @@ include("config.php");
                 </li>
                 <li>
                     <a href="javascript:void(0)" class="sidebar-header">
-                        <i class="fa-solid fa-users"></i> <span>Clients</span>
+                        <i class="fa-solid fa-users nv-i"></i> <span>Clients</span>
                         <i class="fa fa-angle-right pull-right"></i>
                     </a>
                     <ul class="sidebar-submenu">
